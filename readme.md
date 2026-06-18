@@ -15,7 +15,7 @@
 ### Terraform Block
 
 - terraform
-- > constants only, no vars or resources allowed. Defines Terraform settings like required providers and version constraints:
+- - constants only, no vars or resources allowed. Defines Terraform settings like required providers and version constraints:
 ```
 =  : allows the version specified only
 != : disallows the version specified
